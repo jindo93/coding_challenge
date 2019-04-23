@@ -1,2 +1,2 @@
-# coding_challenge
+# Coding Challenge
 Solving coding challenges
